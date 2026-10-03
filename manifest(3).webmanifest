@@ -1,0 +1,11 @@
+{
+  "name": "GymTrack",
+  "short_name": "GymTrack",
+  "description": "Локальный трекер прогресса тренировок",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#07070a",
+  "theme_color": "#09090d"
+}
